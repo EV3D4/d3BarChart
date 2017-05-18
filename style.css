@@ -1,0 +1,30 @@
+.title{
+  font-size: 1.5em;
+  margin: 1%;
+  height: 1%;
+  font-family: sans-serif;
+  color: black;
+  background: white;
+  overflow: hidden;
+}
+
+.divCard{
+  position: absolute;
+  margin-top: 2%;
+  height: 95%;
+  width: 100%;
+}
+.bar:hover{
+  fill: blue;
+}
+
+div.tooltip{
+  position: absolute;
+  text-align: center;
+  padding: 10px;
+  font: 20px sans-serif;
+  background: white;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+}
