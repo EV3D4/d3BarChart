@@ -1,5 +1,4 @@
 # d3BarChart
-Front-End Web Development: D3
 
 **User Story #1**: My chart should have a title with a corresponding id="title".
 
